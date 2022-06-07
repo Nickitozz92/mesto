@@ -1,0 +1,17 @@
+.profile__add-button {
+  width: 150px;
+  height: 50px;
+  background-image: url(./../../../images/white_plus.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 64px;
+  padding-right: 64px;
+  border: 2px solid #FFFFFF;
+  border-radius: 2px;
+  box-sizing: border-box;
+  justify-content: flex-end;
+  align-self: center;
+  justify-self: self-end;
+}
