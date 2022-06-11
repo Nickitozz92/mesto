@@ -1,9 +1,12 @@
 .elements__union {
   background-image: url(./../../../images/white_union.svg);
   background-repeat: no-repeat;
+  background-position: top left;
   height: 19px;
   width: 22px;
   padding-right: 5px;
   padding-bottom: 2px;
+  flex-grow: 0;
+  flex-shrink: 0;
 }
 

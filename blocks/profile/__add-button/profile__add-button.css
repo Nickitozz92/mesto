@@ -15,3 +15,9 @@
   align-self: center;
   justify-self: self-end;
 }
+
+@media screen and (max-width: 768px) {
+  .profile__add-button {
+    justify-self: center;
+  }
+}
