@@ -5,3 +5,13 @@
   margin-right: auto;
   padding-bottom: 60px;
 }
+
+@media screen and (max-width: 760px) {
+  .footer {
+    font-size: 14px;
+    line-height: 17px;
+    padding-right: 19px;
+    padding-left: 19px;
+
+  }
+}

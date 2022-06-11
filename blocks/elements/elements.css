@@ -6,4 +6,9 @@
   display: grid;
   grid-template-columns: repeat(auto-fill,282px);
   gap: 14px;
+  padding-left: 19px;
+  padding-right: 19px;
 }
+
+
+

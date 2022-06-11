@@ -1,5 +1,5 @@
 .footer__name-text {
-  width: 318px;
+  max-width: 318px;
   font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
@@ -8,3 +8,12 @@
   color: #545454;
 
 }
+
+@media screen and (max-width: 320px) {
+  .footer__name-text {
+    font-size: 14px;
+    line-height: 17px;
+
+  }
+}
+
